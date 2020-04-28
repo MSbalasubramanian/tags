@@ -1,1 +1,1 @@
-Im a stable release v.0
+Im a stable release v2.0
